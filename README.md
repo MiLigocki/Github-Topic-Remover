@@ -1,5 +1,5 @@
 # Github Topic Remover
-Filter out projects with description in Chinese and other "awesome" stuff while exploring Github.
+Filter out projects with description in Chinese and other "awesome" stuff that pops up while you browse through interesting Github repositories.
 
 [Install Topic Filter](https://github.com/MiLigocki/Github-Topic-Remover/raw/main/GithubTopicFilter.user.js)
 
